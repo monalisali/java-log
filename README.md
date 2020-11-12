@@ -8,8 +8,8 @@
 但结果是：error文件只包含error信息，但infor文件会包含infor和error信息。
 
 ### 1.1 资源
-https://github.com/pmwmedia/tinylog
-https://tinylog.org/v2/getting-started/
+* https://github.com/pmwmedia/tinylog
+* https://tinylog.org/v2/getting-started/
 
 ### 1.2 Maven 依赖
 ```xml
